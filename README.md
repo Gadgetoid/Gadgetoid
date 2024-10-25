@@ -4,9 +4,7 @@ By day I write C++/Python device libraries for [Pimoroni](https://github.com/pim
 
 ### Pinout.xyz
 
-I also maintain [Pinout.xyz](https://pinout.xyz), your one stop shop for Raspberry Pi GPIO pinout information. Here's a heatmap of Raspberry Pi GPIO pin usage from the ~200 boards we've collated:
-
-![https://api.pinout.xyz/v1/img/pinout_heatmap.png](https://api.pinout.xyz/v1/img/pinout_heatmap.png)
+I also maintain [Pinout.xyz](https://pinout.xyz), your one stop shop for Raspberry Pi GPIO pinout information.
 
 ### Pico.Pinout.xyz
 
